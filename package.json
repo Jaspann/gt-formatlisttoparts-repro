@@ -1,0 +1,11 @@
+{
+  "name": "gt-formatlisttoparts-repro",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "repro": "node repro.mjs"
+  },
+  "dependencies": {
+    "generaltranslation": "9.5.12"
+  }
+}
