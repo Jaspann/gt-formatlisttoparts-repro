@@ -12,8 +12,6 @@ npm install
 npm run repro
 ```
 
-The script exits with code 1 while the mismatch is present.
-
 ## Output (generaltranslation 9.5.12, Node v24.18.0, ICU 78.3, CLDR 48.0, macOS arm64)
 
 ```
